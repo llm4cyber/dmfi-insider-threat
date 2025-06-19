@@ -9,3 +9,13 @@ This repository contains the source code and instructions for reproducing the re
 - LoRA fine-tuning pipeline using LLaMA-Factory
 - Semantic/Behavioral prompt generation
 - Evaluation code and baseline comparisons
+
+The full architecture is shown in the PDF below:
+
+<img src="./assets/Structrue.png" alt="main" style="zoom: 33%;" />
+
+## Preprocessing Pipeline
+
+
+
+
