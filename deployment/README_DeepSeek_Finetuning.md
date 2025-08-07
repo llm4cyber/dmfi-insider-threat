@@ -60,26 +60,6 @@ Welcome to LLaMA Factory, version 0.9.3.dev0
 Project page: https://github.com/hiyouga/LLaMA-Factory
 ```
 
----
-
-## 📂 Directory Structure
-
-```
-├── features/
-│   ├── behavior_sequence/
-│   │   └── scenario_2_USERID_behavior.csv
-│   ├── semantic_content/
-│   │   └── scenario_2_USERID_semantic.csv
-│   └── alpaca/
-│       ├── scenario_2_USERID_alpaca_behavior.json
-│       └── scenario_2_USERID_alpaca_semantic.json
-├── config/
-│   └── finetune_config.yaml
-├── scripts/
-│   └── train.sh
-```
-
----
 
 ## 🧪 Fine-tuning Example
 
