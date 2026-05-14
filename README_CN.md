@@ -174,7 +174,7 @@ deployment/README_DeepSeek_Finetuning.md
 
 # 👥 作者
 
-- 孔凯川（Kaichuan Kong）
+- 孔凯传（Kaichuan Kong）
 - 刘东杰（Dongjie Liu）
 - 耿光刚（Guanggang Geng）
 
