@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README_CN.md)
+
 # Dual-Modality Insider Threat Detection (DMFI) 
 
 This repository contains the source code and instructions for reproducing the results of our paper submitted to [ICDM conference in 2025].
