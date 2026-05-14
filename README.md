@@ -1,8 +1,7 @@
 # Dual-Modality Insider Threat Detection (DMFI) 
 
-This repository contains the source code and instructions for reproducing the results of our paper submitted to [a top-tier data mining conference in 2025].
+This repository contains the source code and instructions for reproducing the results of our paper submitted to [ICDM conference in 2025].
 
-> Note: For anonymity, author and affiliation information have been removed.
 
 ## Contents
 - Preprocessing scripts for CERT dataset
@@ -98,3 +97,18 @@ Then follow the instructions in `deployment/README_DeepSeek_Finetuning.md`.
 ```
 
 ---
+
+## 👥 Authors
+
+- Kaichuan Kong
+- Dongjie Liu
+- Guanggang Geng
+
+## 🏫 Affiliation
+
+College of Cyberspace Security,  
+Jinan University, Guangzhou, China
+
+
+
+
